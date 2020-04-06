@@ -7,7 +7,7 @@ banner:
     arcu sagittis viverra  
     blandit at Interdum.
   actions:
-    - label: Activate
+    - label: Sign Up
       url: /generic
       is_scrolly: false
       is_primary: true
@@ -19,14 +19,12 @@ banner:
 sections:
   - type: icons
     title: |-
-      Arcu aliquet vel lobortis ata nisl
-      eget augue amet aliquet nisl cep donec
-    subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
+      Un Spotify de la Vivienda
 
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-      ullamcorper.  
+    subtitle: >-
+      Una Propuesta  
+
+      Una red de propiedades. Una red de personas.
     section_id: one
     background_style: style1
     feature_icons:
