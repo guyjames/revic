@@ -3,16 +3,15 @@ title: Home
 banner:
   title: REVIC
   subtitle: |-
-    Blandit duis accumsan  
-    arcu sagittis viverra  
-    blandit at Interdum.
+    Reviving Villages  
+    Inspiring Cities.  
   actions:
-    - label: Sign Up
+    - label: Registrar
       url: /generic
       is_scrolly: false
       is_primary: true
   bottom_link:
-    label: Learn More
+    label: Más
     url: '#one'
     has_arrow: true
     is_scrolly: true
