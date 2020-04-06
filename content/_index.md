@@ -1,5 +1,5 @@
 ---
-title: Home
+title: REVIC: Reviving Villages, Inspiring Cities.
 banner:
   title: REVIC
   subtitle: |-
@@ -43,25 +43,25 @@ sections:
     background_style: style2
     spotlights:
       - title: |-
-          Magna primis lobortis
-          sed ullamcorper
+          Solució
         text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+          Estem co-dissenyant amb propietaris, usuaris
+          i communitat locals
         home_img_path: images/pic01.jpg
       - title: |-
-          Tortor dolore feugiat
-          elementum magna
+          Filosofia REVIC
+          INSPIRADA EN EL MOVIMENT DE LA TRANSICIÓ
         text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+          CONCRETADA EN UNA PLATAFORMA COOPERATIVA QUE ESTRUCTURI UN ECOSISTEMA
+          DE PROJECTES REPARTITS ARREU DEL TERRITORI.
         home_img_path: images/pic02.jpg
       - title: |-
-          Augue eleifend aliquet
-          sed condimentum
+          EQUILIBRI TERRITORIAL
+          ECONOMIA CIRCULAR
         text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+          La visió global del territori i la percepció del gran desequilibri
+          entre les zones rurals i les grans megalòpolis urbanes
+          fan que centrem la nostra proposta en la combinació ciutat-poble.
         home_img_path: images/pic03.jpg
     component: spotlights.html
   - type: features
