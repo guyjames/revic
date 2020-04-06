@@ -50,18 +50,17 @@ sections:
         home_img_path: images/pic01.jpg
       - title: |-
           Filosofia REVIC
-          INSPIRADA EN EL MOVIMENT DE LA TRANSICIÓ
+          elementum magna
         text: >-
-          CONCRETADA EN UNA PLATAFORMA COOPERATIVA QUE ESTRUCTURI UN ECOSISTEMA
-          DE PROJECTES REPARTITS ARREU DEL TERRITORI.
+          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
+          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
         home_img_path: images/pic02.jpg
       - title: |-
-          EQUILIBRI TERRITORIAL
-          ECONOMIA CIRCULAR
+          Augue eleifend aliquet
+          sed condimentum
         text: >-
-          La visió global del territori i la percepció del gran desequilibri
-          entre les zones rurals i les grans megalòpolis urbanes
-          fan que centrem la nostra proposta en la combinació ciutat-poble.
+          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
+          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
         home_img_path: images/pic03.jpg
     component: spotlights.html
   - type: features
