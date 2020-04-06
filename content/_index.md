@@ -3,9 +3,11 @@ title: Home
 banner:
   title: REVIC
   subtitle: |-
-    Reviving Villages, Inspiring Cities.
+    Blandit duis accumsan  
+    arcu sagittis viverra  
+    blandit at Interdum.
   actions:
-    - label: Sign Up
+    - label: Activate
       url: /generic
       is_scrolly: false
       is_primary: true
@@ -17,17 +19,14 @@ banner:
 sections:
   - type: icons
     title: |-
-
+      Arcu aliquet vel lobortis ata nisl
+      eget augue amet aliquet nisl cep donec
     subtitle: >-
-      "Un Spotify de la Vivienda"
+      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
+      eleifend  
 
-      ## ¿Cómo?
-      - Pues estamos hablando del #DerechoDeUso
-      - Una red de propiedades
-      - Una red de personas
-      - Tres niveles de membresia: residente permanente, residente temporal (Assoc. Members), y nomada 'consciente'
-      - Puede ser de primera residencia, segunda residencia, o para vacaciones
-
+      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
+      ullamcorper.  
     section_id: one
     background_style: style1
     feature_icons:
@@ -47,13 +46,11 @@ sections:
     background_style: style2
     spotlights:
       - title: |-
-          Una oportunidad para recuperar pueblos abandonados
+          Magna primis lobortis
+          sed ullamcorper
         text: >-
-        - Hay 180 pueblos abandonados en Cataluña
-        - Los ayuntamientos no tienen recursos para hacer frente a eso, pero hay becas etc.
-        - Frenar la despoblación de zonas rurales
-        - Generar un turismo sostenible en colaboración con la población local.
-        - Utilizar propiedades fuera de temporada (p.e. en la costa)
+          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
+          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
         home_img_path: images/pic01.jpg
       - title: |-
           Tortor dolore feugiat
