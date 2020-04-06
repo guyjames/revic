@@ -1,6 +1,6 @@
 ---
-title: Generic Page
-subtitle: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+title: REVIC
+subtitle: Reviving Villages, Inspiring Cities
 background_style: style5
 menu:
   main:
