@@ -1,5 +1,5 @@
 ---
-title: REVIC: Reviving Villages, Inspiring Cities.
+title: REVIC
 banner:
   title: REVIC
   subtitle: |-
@@ -45,11 +45,11 @@ sections:
       - title: |-
           Solució
         text: >-
-          Estem co-dissenyant amb propietaris, usuaris
-          i communitat locals
+          Estem co-dissenyant amb propietaris
+          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
         home_img_path: images/pic01.jpg
       - title: |-
-          Filosofia REVIC
+          Tortor dolore feugiat
           elementum magna
         text: >-
           Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
