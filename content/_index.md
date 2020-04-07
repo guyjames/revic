@@ -45,12 +45,13 @@ sections:
       - title: |-
           Solució
         text: >-
-          Estem co-dissenyant amb propietaris
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+          Estem co-dissenyant amb propietaris,
+          usuaris i comunitat locals.          
         home_img_path: images/pic01.jpg
       - title: |-
-          Tortor dolore feugiat
-          elementum magna
+          Vivenda Col·laborativa mixta
+          Entre l’aprofitament per torns en temporada baixa
+          i la renta amb descompte a canvi d’obres.
         text: >-
           Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
           imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
