@@ -50,27 +50,23 @@ sections:
         home_img_path: images/pic01.jpg
       - title: |-
           Vivenda Col·laborativa mixta
-          Entre l’aprofitament per torns en temporada baixa
-          i la renta amb descompte a canvi d’obres.
         text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+        Entre l’aprofitament per torns en temporada baixa
+        i la renta amb descompte a canvi d’obres.
         home_img_path: images/pic02.jpg
       - title: |-
-          Augue eleifend aliquet
-          sed condimentum
+          Un model amb una causa social clara
         text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+          Identificant i potenciant els emprenedors i activadors econòmics locals.
+          Escurçant les distàncies entre poble i ciutat i poble-poble.
         home_img_path: images/pic03.jpg
     component: spotlights.html
   - type: features
-    title: Accumsan mus tortor nunc aliquet
+    title: FILOSOFIA REVIC
     subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
-
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
+      INSPIRADA EN EL MOVIMENT DE LA TRANSICIÓ. CONCRETADA EN UNA PLATAFORMA COOPERATIVA
+      QUE ESTRUCTURI UN ECOSISTEMA DE PROJECTES REPARTITS ARREU DEL
+      TERRITORI QUE CONNECTIN PERSONES I PROJECTES AMB VALORS COMPARTITS.
     section_id: three
     background_style: style3
     features:
