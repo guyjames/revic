@@ -51,8 +51,8 @@ sections:
       - title: |-
           Vivenda Col·laborativa mixta
         text: >-
-        Entre l’aprofitament per torns en temporada baixa
-        i la renta amb descompte a canvi d’obres.
+          Entre l’aprofitament per torns en temporada baixa
+          i la renta amb descompte a canvi d’obres.
         home_img_path: images/pic02.jpg
       - title: |-
           Un model amb una causa social clara
@@ -70,35 +70,38 @@ sections:
     section_id: three
     background_style: style3
     features:
-      - title: Arcu accumsan
+      - title: EQUILIBRI TERRITORIAL
         text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
+          La visió global del territori i la percepció del gran desequilibri
+          entre les zones rurals i les grans megalòpolis urbanes fan que
+          centrem la nostra proposta en la combinació ciutat-poble.
         icon: fa-paper-plane-o
-      - title: Ac Augue Eget
+      - title: L’ESCOLA DE LA TRANSICIÓ
         text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
+          Alentir el ritme de la vida i aprendre a no deixar-se imbuir per una
+          rutina atrafegada dominada per l’individualisme i un consumisme de la
+          immediatesa inculcat per un capitalisme necessitat d’individus volubles i acrítics.
         icon: fa-laptop
-      - title: Mus Scelerisque
+      - title: Regeneratiu i Resilient
         text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
+          Generar una alternativa de "desenvolupament" que sigui social,
+          econòmica i ecològicament sostenible. Aquest projecte possibilita
+          que les persones que visquin en ell puguin treballar des d'allà.
         icon: fa-code
-      - title: Mauris Imperdiet
+      - title: Construint una nova economia
         text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
+          La idea és crear una plataforma de la qual puguin dependre altres
+          serveis: construcció, renovació d’edificis, docència, alimentació... etc.
         icon: fa-headphones
-      - title: Aenean Primis
+      - title: Un Spotify d’Habitatge Cooperatiu
         text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
+          Les noves maneres de gaudir de les coses (penseu en Spotify) ens
+          demostren que podem tenir l’ús de les coses sense necessitat de posseir-les.
         icon: fa-heart-o
-      - title: Tortor Ut
+      - title: La bona notícia
         text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
+          Es que el nou món ja és aquí! Tenim els coneixements i les eines per crear una
+          nova manera de fer les coses que ens regenerarà tant nosaltres com el planeta.
         icon: fa-flag-o
     component: features.html
   - type: cta
