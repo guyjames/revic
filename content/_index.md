@@ -6,12 +6,12 @@ banner:
     Reviving Villages  
     Inspiring Cities.  
   actions:
-    - label: Registrar
+    - label: Registrar-te
       url: /generic
       is_scrolly: false
       is_primary: true
   bottom_link:
-    label: Más
+    label: Descobrir
     url: '#one'
     has_arrow: true
     is_scrolly: true
@@ -21,9 +21,9 @@ sections:
       Un Spotify de la Vivienda
 
     subtitle: >-
-      Una Propuesta  
-
-      Una red de propiedades. Una red de personas.
+      Una Proposta.
+      Una xarxa de propietats.
+      Una xarxa de persones.
     section_id: one
     background_style: style1
     feature_icons:
@@ -105,18 +105,18 @@ sections:
         icon: fa-flag-o
     component: features.html
   - type: cta
-    title: Arcue ut vel commodo
+    title: Uneix-te a el moviment!
     text: >-
-      Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet
-      eleifend fringilla.
+      Inscriviu-vos a la nostra llista de correu
+      aquí per recibir les últimes novetats.
     section_id: cta
     background_style: style4
     actions:
-      - label: Activate
+      - label: Registrar-te
         url: /generic
         is_scrolly: false
         is_primary: true
-      - label: Learn More
+      - label: Descobrir
         url: /generic
         is_scrolly: false
         is_primary: false
