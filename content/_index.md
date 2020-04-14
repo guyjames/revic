@@ -82,12 +82,12 @@ sections:
         text: >-
           Creem una comunitat de persones i una xarxa de propietats.
         icon: fa-leaf
-      - title: Lluitem contra:
+      - title: Lluitem contra
         text: >-
           Especulació, gentrificació, capitalisme extractiu,
           destrucció del món natural, amuntegament.
         icon: fa-money
-      - title: Estem creant:
+      - title: Estem creant
         text: >-
           Pobles, ciutats més saludables, resiliència alimentària,
           vincles entre zones rurals i ciutats, educació,
