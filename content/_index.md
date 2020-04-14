@@ -18,12 +18,12 @@ banner:
 sections:
   - type: icons
     title: |-
-      Un Spotify d'Habitatge
+      Les coses estan trencades
 
     subtitle: >-
-      Una Proposta.
-      Una xarxa de propietats.
-      Una xarxa de persones.
+      Sé que necessitem una altra
+      manera de fer les coses.
+      Però estic perduda...   
     section_id: one
     background_style: style1
     feature_icons:
@@ -43,57 +43,58 @@ sections:
     background_style: style2
     spotlights:
       - title: |-
-          Les coses estan trencades
-        text: >-
-          Sé que necessitem una altra
-          manera de fer les coses.          
-        home_img_path: images/pic01.jpg
-      - title: |-
-          Però estic perduda...
-        text: >-
           La història s'ha canviat.
-          Però que pot fer una persona sola?
-        home_img_path: images/pic02.jpg
+        text: >-
+          Però que pot fer una persona sola?          
+        home_img_path: images/pic01.jpg
       - title: |-
           Problemes
         text: >-
           Amuntegament, gentrificació, pèrdua de
-          qualitat de vida, augment dels lloguers.
+          qualitat de vida, augment dels lloguers.          
+        home_img_path: images/pic02.jpg
+      - title: |-
+          Estic al camp i...
+        text: >-
+          ...necessito ajuda, física, econòmica -
+          i vull compartir els meus coneixements.
+          No vull que la meva comunitat es destrueixi.
         home_img_path: images/pic03.jpg
     component: spotlights.html
   - type: features
-    title: Amfitrions - No sé com...?
+    title: A Catalunya i l'Estat Espanyol
     subtitle: >-
-      Estic al camp i necessito ajuda, física, econòmica
-      i vull compartir els meus coneixements. No vull que
-      la meva comunitat es destrueixi.
+       + 900,000 cases buides a zones rurals.
     section_id: three
     background_style: style3
     features:
-      - title: A Catalunya i l'Estat Espanyol
-        text: >-
-          + 900,000 cases buides a zones rurals.
-        icon: fa-balance-scale
-      - title: Estic Perdut
-        text: >-
-          Que pot fer una persona sola?
-        icon: fa-book
       - title: Crisi = Oportunitat
         text: >-
-          Creem una comunitat de persones i una xarxa de propietats.
-        icon: fa-leaf
+          Creem una comunitat de persones
+          i una xarxa de propietats.
+        icon: fa-balance-scale
       - title: Lluitem contra
         text: >-
           Especulació, gentrificació, capitalisme extractiu,
           destrucció del món natural, amuntegament.
-        icon: fa-money
+        icon: fa-book
       - title: Estem creant
         text: >-
           Pobles, ciutats més saludables, resiliència alimentària,
           vincles entre zones rurals i ciutats, educació,
-          economies locals saludables.
+          economies locals saludables.        
+        icon: fa-leaf
+      - title: Un 'Spotify d'Habitatge'
+        text: >-
+          Regenera les economies locals.
+          Criació de famílies sanes
+        icon: fa-money
+      - title: Redescobriu el vostre propòsit
+        text: >-
+          Torna a connectar amb la Terra
+          Millor qualitat de vida          
         icon: fa-headphones
-      - title: Formeu part de la nova història.
+      - title: Forma part de la nova història.
         text: >-
           Es que el nou món ja és aquí! Tenim els coneixements i les eines per crear una
           nova manera de fer les coses que ens regenerarà tant nosaltres com el planeta.
