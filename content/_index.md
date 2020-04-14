@@ -1,5 +1,5 @@
 ---
-title: REVIC
+title: REVIC - Un Spotify d'Habitatge
 banner:
   title: REVIC
   subtitle: |-
@@ -18,7 +18,7 @@ banner:
 sections:
   - type: icons
     title: |-
-      Un Spotify de la Vivienda
+      Un Spotify d'Habitatge
 
     subtitle: >-
       Una Proposta.
@@ -43,62 +43,57 @@ sections:
     background_style: style2
     spotlights:
       - title: |-
-          Solució
+          Les coses estan trencades
         text: >-
-          Estem co-dissenyant amb propietaris,
-          usuaris i comunitat locals.          
+          Sé que necessitem una altra
+          manera de fer les coses.          
         home_img_path: images/pic01.jpg
       - title: |-
-          Vivenda Col·laborativa mixta
+          Però estic perduda...
         text: >-
-          Entre l’aprofitament per torns en temporada baixa
-          i la renta amb descompte a canvi d’obres.
+          La història s'ha canviat.
+          Però que pot fer una persona sola?
         home_img_path: images/pic02.jpg
       - title: |-
-          Un model amb una causa social clara
+          Problemes
         text: >-
-          Identificant i potenciant els emprenedors i activadors econòmics locals.
-          Escurçant les distàncies entre poble i ciutat i poble-poble.
+          Amuntegament, gentrificació, pèrdua de
+          qualitat de vida, augment dels lloguers.
         home_img_path: images/pic03.jpg
     component: spotlights.html
   - type: features
-    title: FILOSOFIA REVIC
+    title: Amfitrions - No sé com...?
     subtitle: >-
-      INSPIRADA EN EL MOVIMENT DE LA TRANSICIÓ. CONCRETADA EN UNA PLATAFORMA COOPERATIVA
-      QUE ESTRUCTURI UN ECOSISTEMA DE PROJECTES REPARTITS ARREU DEL
-      TERRITORI QUE CONNECTIN PERSONES I PROJECTES AMB VALORS COMPARTITS.
+      Estic al camp i necessito ajuda, física, econòmica
+      i vull compartir els meus coneixements. No vull que
+      la meva comunitat es destrueixi.
     section_id: three
     background_style: style3
     features:
-      - title: EQUILIBRI TERRITORIAL
+      - title: A Catalunya i l'Estat Espanyol
         text: >-
-          La visió global del territori i la percepció del gran desequilibri
-          entre les zones rurals i les grans megalòpolis urbanes fan que
-          centrem la nostra proposta en la combinació ciutat-poble.
+          + 900,000 cases buides a zones rurals.
         icon: fa-balance-scale
-      - title: L’ESCOLA DE LA TRANSICIÓ
+      - title: Estic Perdut
         text: >-
-          Alentir el ritme de la vida i aprendre a no deixar-se imbuir per una
-          rutina atrafegada dominada per l’individualisme i un consumisme de la
-          immediatesa inculcat per un capitalisme necessitat d’individus volubles i acrítics.
+          Que pot fer una persona sola?
         icon: fa-book
-      - title: Regeneratiu i Resilient
+      - title: Crisi = Oportunitat
         text: >-
-          Generar una alternativa de "desenvolupament" que sigui social,
-          econòmica i ecològicament sostenible. Aquest projecte possibilita
-          que les persones que visquin en ell puguin treballar des d'allà.
+          Creem una comunitat de persones i una xarxa de propietats.
         icon: fa-leaf
-      - title: Construint una nova economia
+      - title: Lluitem contra:
         text: >-
-          La idea és crear una plataforma de la qual puguin dependre altres
-          serveis: construcció, renovació d’edificis, docència, alimentació... etc.
+          Especulació, gentrificació, capitalisme extractiu,
+          destrucció del món natural, amuntegament.
         icon: fa-money
-      - title: Un Spotify d’Habitatge Cooperatiu
+      - title: Estem creant:
         text: >-
-          Les noves maneres de gaudir de les coses (penseu en Spotify) ens
-          demostren que podem tenir l’ús de les coses sense necessitat de posseir-les.
+          Pobles, ciutats més saludables, resiliència alimentària,
+          vincles entre zones rurals i ciutats, educació,
+          economies locals saludables.
         icon: fa-headphones
-      - title: La bona notícia
+      - title: Formeu part de la nova història.
         text: >-
           Es que el nou món ja és aquí! Tenim els coneixements i les eines per crear una
           nova manera de fer les coses que ens regenerarà tant nosaltres com el planeta.
