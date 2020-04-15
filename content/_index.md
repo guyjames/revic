@@ -93,7 +93,7 @@ sections:
         text: >-
           Torna a connectar amb la Terra
           Millor qualitat de vida          
-        icon: fa-hand-point-up
+        icon: fa-diamond
       - title: Forma part de la nova història.
         text: >-
           Es que el nou món ja és aquí! Tenim els coneixements i les eines per crear una
