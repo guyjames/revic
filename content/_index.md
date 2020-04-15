@@ -59,7 +59,7 @@ sections:
           ...necessito ajuda, física, econòmica -
           i vull compartir els meus coneixements.
           No vull que la meva comunitat es destrueixi.
-        home_img_path: images/pic03.jpg
+        home_img_path: images/pages_noia.jpg
     component: spotlights.html
   - type: features
     title: A Catalunya i l'Estat Espanyol
