@@ -22,7 +22,7 @@ sections:
 
     subtitle: >-
       Sé que necessitem una altra
-      manera de fer les coses.
+      manera d'organitzar com vivim.
       Però estic perduda...   
     section_id: one
     background_style: style1
@@ -46,13 +46,13 @@ sections:
           La història s'ha canviat.
         text: >-
           Però que pot fer una persona sola?          
-        home_img_path: images/pic01.jpg
+        home_img_path: images/mask.jpg
       - title: |-
           Problemes
         text: >-
           Amuntegament, gentrificació, pèrdua de
           qualitat de vida, augment dels lloguers.          
-        home_img_path: images/pic02.jpg
+        home_img_path: images/factory.jpg
       - title: |-
           Estic al camp i...
         text: >-
@@ -64,7 +64,7 @@ sections:
   - type: features
     title: A Catalunya i l'Estat Espanyol
     subtitle: >-
-       + 900,000 cases buides a zones rurals.
+       Hi han 900,000 cases buides a zones rurals.
     section_id: three
     background_style: style3
     features:
