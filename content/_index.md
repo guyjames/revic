@@ -72,12 +72,12 @@ sections:
         text: >-
           Creem una comunitat de persones
           i una xarxa de propietats.
-        icon: fa-balance-scale
+        icon: fa-exclamation-circle
       - title: Lluitem contra
         text: >-
           Especulació, gentrificació, capitalisme extractiu,
           destrucció del món natural, amuntegament.
-        icon: fa-book
+        icon: fa-thumbs-down
       - title: Estem creant
         text: >-
           Pobles, ciutats més saludables, resiliència alimentària,
@@ -88,12 +88,12 @@ sections:
         text: >-
           Regenera les economies locals.
           Criació de famílies sanes
-        icon: fa-money
+        icon: fa-headphones
       - title: Redescobriu el vostre propòsit
         text: >-
           Torna a connectar amb la Terra
           Millor qualitat de vida          
-        icon: fa-headphones
+        icon: fa-hand-point-up
       - title: Forma part de la nova història.
         text: >-
           Es que el nou món ja és aquí! Tenim els coneixements i les eines per crear una
