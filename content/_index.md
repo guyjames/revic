@@ -52,7 +52,7 @@ sections:
         text: >-
           Amuntegament, gentrificació, pèrdua de
           qualitat de vida, augment dels lloguers.          
-        home_img_path: images/factory.jpg
+        home_img_path: images/subway.jpg
       - title: |-
           Estic al camp i...
         text: >-
